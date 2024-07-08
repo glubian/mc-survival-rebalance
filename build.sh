@@ -8,7 +8,7 @@ set -e
 [ -z "$PACK_FORMAT" ] && PACK_FORMAT='48'
 [ -z "$MC_VERSION" ] && MC_VERSION='1.21'
 
-[ -z "$PACK_FILENAME" ] && PACK_FILENAME="mc-survival-rebalance-$PACK_VERSION+$MC_VERSION.zip"
+[ -z "$PACK_FILENAME" ] && PACK_FILENAME="mc-survival-rebalance-$PACK_VERSION+mc$MC_VERSION.zip"
 
 getRepoDir() {
   cd -- "$(realpath -z "$0" | xargs -0 dirname)" > /dev/null 2>&1
