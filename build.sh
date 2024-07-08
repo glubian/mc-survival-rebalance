@@ -53,7 +53,7 @@ genPackMcMeta() {
 {
   "pack": {
     "description": "$PACK_DESCRIPTION",
-    "pack_format": $PACK_FORMAT,
+    "pack_format": $PACK_FORMAT
   }
 }
 EOF
