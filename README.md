@@ -11,7 +11,7 @@ This datapack contains two small changes to the worldgen that improve the surviv
 The build script should work on most Linux distributions:
 
 ```sh
-./build
+./build.sh
 ```
 
 
