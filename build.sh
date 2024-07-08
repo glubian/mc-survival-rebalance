@@ -28,6 +28,7 @@ rmWorkDir() {
   workDir=
 }
 
+# Based on https://unix.stackexchange.com/a/29918
 cleanup() {
   local trapSignal="$2"
 
