@@ -1,6 +1,6 @@
 # Minecraft Survival Rebalance
 
-This datapack contains two small changes to the worldgen that improve the survival experience without making any changes to the overall game mechanics:
+This datapack contains two small changes to the worldgen that improve the survival experience without making any changes to overall game mechanics:
 
 - structures are roughly 1.5 times more spread out
 - wheat piles no longer generate in villages
